@@ -1,0 +1,1 @@
+ringcount = 0;

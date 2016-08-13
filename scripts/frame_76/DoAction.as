@@ -1,0 +1,10 @@
+_root.boohyel._X = random(700) + 50;
+_root.boohyel._Y = random(500) + 50;
+_root.boohind._X = random(700) + 50;
+_root.boohind._Y = random(500) + 50;
+_root.boohvio._X = random(700) + 50;
+_root.boohvio._Y = random(500) + 50;
+_root.boohblu._X = random(700) + 50;
+_root.boohblu._Y = random(500) + 50;
+_root.boohora._X = random(700) + 50;
+_root.boohora._Y = random(500) + 50;
